@@ -1,12 +1,3 @@
-# GesturalAI
-
-<div align="center" >
- <img src='https://github.com/utsavk28/GesturalAI-Nerds/blob/main/images/gesturalai-demo.gif' />
- </div>
- 
-[Full Demo](https://www.youtube.com/watch?v=F3SxnL08jgM)
-<!-- #### Note: This is a rough Readme , this Readme will be updated soon with all the details -->
-
 ## 📌 About
 Sign Language Recognition using Machine and Deep Learning 
 
@@ -74,7 +65,5 @@ Sign Language Recognition using Machine and Deep Learning
 ## ASL characters and their sign representations
 ![ASL characters](https://github.com/utsavk28/Nerds/blob/main/images/ASL%20characters.png?raw=true)
 
-## 📸 Results
-[Demo link](https://www.youtube.com/watch?v=F3SxnL08jgM)
-<!-- 
-## 🌐 Conclusion -->
+
+
