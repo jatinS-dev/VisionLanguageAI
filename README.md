@@ -58,9 +58,7 @@ Sign Language Recognition using Machine and Deep Learning
  $ python main.py
 ```
 
-## Group members
-- [Utsav Khatu](https://github.com/utsavk28)
-- [Tushar Bauskar](https://github.com/tusharsb-12)
+
 
 ## ASL characters and their sign representations
 ![ASL characters](https://github.com/utsavk28/Nerds/blob/main/images/ASL%20characters.png?raw=true)
