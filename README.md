@@ -42,7 +42,7 @@ Sign Language Recognition using Machine and Deep Learning
 
 1. Clone the repository using the ```git clone```
 ```
- $ git clone https://github.com/utsavk28/Nerds.git
+ $ git clone https://github.com/jatinS-dev/VisionLanguageAI.git
 ```
 2. Create a virtual environment
 ```
